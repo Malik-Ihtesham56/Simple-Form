@@ -94,7 +94,7 @@ function App() {
             />
             <Field
               name="cPassword"
-              placeholder="Enter Your Confirm Passowrd"
+              placeholder="Enter Confirm Passowrd"
               type="text"
               values={values.cPassword}
               onChange={handleChange}
